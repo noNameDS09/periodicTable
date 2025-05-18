@@ -48,7 +48,7 @@ A modern, interactive, and highly functional Periodic Table web application buil
 - [Tailwind CSS](https://tailwindcss.com/) – Utility-first CSS framework
 - [Framer Motion](https://www.framer.com/motion/) – Smooth animations
 - [Google Gemini API](https://ai.google.dev/) – Natural language processing
-- [Chart.js / D3.js (Optional)] – Visual property graphs (if used)
+
 
 ---
 
